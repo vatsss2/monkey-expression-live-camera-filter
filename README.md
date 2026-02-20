@@ -1,6 +1,6 @@
 # Real-Time Expression Mapping & Digital Avatar
 ### **A Multi-Cascade Implementation of Facial Landmark Detection & State Management**
-
+![Project Demo](demoMonkey.gif)
 ## Project Overview
 This project is a high-accuracy computer vision pipeline developed to map human facial expressions onto a digital avatar of a monkey in real-time. The system utilizes coordinate-based detection to translate facial gestures into animated responses.
 
