@@ -36,3 +36,11 @@ Using **Object-Oriented Programming (OOP)** principles, the system manages a sim
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/vatsss2/monkey-expression-live-camera-filter.git](https://github.com/vatsss2/monkey-expression-live-camera-filter.git)
+
+2. **install dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the application**
+   ```bash
+   python src/main.py
